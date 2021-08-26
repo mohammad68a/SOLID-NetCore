@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SolidExamples\ISP.Animal (solved)\ISP.Animal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SolidExamples\ISP.Animal (solved)\ISP.Animal\bin\Debug\ISP.Animal.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SolidExamples\ISP.Animal (solved)\ISP.Animal\bin\Debug\ISP.Animal.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SolidExamples\ISP.Animal (solved)\ISP.Animal\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SolidExamples\ISP.Animal (solved)\ISP.Animal\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SolidExamples\ISP.Animal (solved)\ISP.Animal\obj\Debug\ISP.Animal.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SolidExamples\ISP.Animal (solved)\ISP.Animal\obj\Debug\ISP.Animal.pdb

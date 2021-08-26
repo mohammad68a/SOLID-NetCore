@@ -1,0 +1,9 @@
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\DIP.Controller\DIP.Controller\bin\Debug\DIP.Controller.dll
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\DIP.Controller\DIP.Controller\bin\Debug\DIP.Controller.pdb
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\DIP.Controller\DIP.Controller\bin\Debug\nunit.framework.dll
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\DIP.Controller\DIP.Controller\bin\Debug\nunit.framework.xml
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\DIP.Controller\DIP.Controller\obj\Debug\DIP.Controller.csprojAssemblyReference.cache
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\DIP.Controller\DIP.Controller\obj\Debug\DIP.Controller.csproj.CoreCompileInputs.cache
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\DIP.Controller\DIP.Controller\obj\Debug\DIP.Controller.csproj.CopyComplete
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\DIP.Controller\DIP.Controller\obj\Debug\DIP.Controller.dll
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\DIP.Controller\DIP.Controller\obj\Debug\DIP.Controller.pdb

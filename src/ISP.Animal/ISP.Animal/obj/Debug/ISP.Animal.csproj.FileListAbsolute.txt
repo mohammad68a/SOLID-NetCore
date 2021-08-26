@@ -1,0 +1,9 @@
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\ISP.Animal\ISP.Animal\bin\Debug\ISP.Animal.dll
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\ISP.Animal\ISP.Animal\bin\Debug\ISP.Animal.pdb
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\ISP.Animal\ISP.Animal\bin\Debug\nunit.framework.dll
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\ISP.Animal\ISP.Animal\bin\Debug\nunit.framework.xml
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\ISP.Animal\ISP.Animal\obj\Debug\ISP.Animal.csprojAssemblyReference.cache
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\ISP.Animal\ISP.Animal\obj\Debug\ISP.Animal.csproj.CoreCompileInputs.cache
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\ISP.Animal\ISP.Animal\obj\Debug\ISP.Animal.csproj.CopyComplete
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\ISP.Animal\ISP.Animal\obj\Debug\ISP.Animal.dll
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\ISP.Animal\ISP.Animal\obj\Debug\ISP.Animal.pdb

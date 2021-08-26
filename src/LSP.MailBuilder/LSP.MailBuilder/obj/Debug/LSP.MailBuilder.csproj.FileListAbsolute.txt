@@ -1,0 +1,9 @@
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\LSP.MailBuilder\LSP.MailBuilder\bin\Debug\LSP.MailBuilder.dll
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\LSP.MailBuilder\LSP.MailBuilder\bin\Debug\LSP.MailBuilder.pdb
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\LSP.MailBuilder\LSP.MailBuilder\bin\Debug\nunit.framework.dll
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\LSP.MailBuilder\LSP.MailBuilder\bin\Debug\nunit.framework.xml
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\LSP.MailBuilder\LSP.MailBuilder\obj\Debug\LSP.MailBuilder.csprojAssemblyReference.cache
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\LSP.MailBuilder\LSP.MailBuilder\obj\Debug\LSP.MailBuilder.csproj.CoreCompileInputs.cache
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\LSP.MailBuilder\LSP.MailBuilder\obj\Debug\LSP.MailBuilder.csproj.CopyComplete
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\LSP.MailBuilder\LSP.MailBuilder\obj\Debug\LSP.MailBuilder.dll
+D:\Projects\_OpenSourceLibraries\SOLID_samples\trunk\src\LSP.MailBuilder\LSP.MailBuilder\obj\Debug\LSP.MailBuilder.pdb
